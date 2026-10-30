@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/norinaga",
  "yomi": "さきのさんぎのりながきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "藤原教長",
+  "desc": "藤原教長の家集で「貧道集」とも呼ばれる。崇徳院（讃岐院）に召された百首の詠をはじめ、四季・恋・雑の歌と長歌を多く収める。"
+ },
  "editions": [
   {
    "pid": "936505",
